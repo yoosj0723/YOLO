@@ -1,0 +1,8 @@
+names:
+  - 
+
+
+nc: 
+test: "C:/Users/User/Desktop/YOLO_0924/dataset/test/images"
+train: "C:/Users/User/Desktop/YOLO_0924/dataset/train/images"
+val: "C:/Users/User/Desktop/YOLO_0924/dataset/val/images"
